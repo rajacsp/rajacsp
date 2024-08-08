@@ -36,3 +36,19 @@
 <p align="center">
 <img src="https://img.shields.io/badge/docker-white?&style=for-the-badge&logo=Docker&logoColor=blue"/> <img src="https://img.shields.io/badge/Kubernetes-white?&style=for-the-badge&logo=kubernetes&logoColor=blue"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Spark-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />  <img src="https://img.shields.io/badge/kubeflow-blue?style=for-the-badge&logo=Kubeflow&logoColor=blue" /> 
 </p>
+
+## 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajacsp&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="rajacsp's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajacsp&langs_count=6&hide=matlab&count_private=true&theme=nightowl" />
+</p>
+
+
+## 🤗 Notable Contributions
+<p align="center">
+  
+  [![PrettyMetrics / Kaipulla Metrics](https://github-readme-stats.vercel.app/api/pin/?username=tactlabs&repo=kaipullametrics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/tactlabs/kaipullametrics/tree/main)
+
+  [![LogPlus](https://github-readme-stats.vercel.app/api/pin/?username=tactlabs&repo=logplus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/tactlabs/logplus/tree/main)
+
+</p>
