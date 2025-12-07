@@ -45,9 +45,9 @@
 
 ## 🤗 Notable Contributions
 <p align="center">
-  
-  [![PrettyMetrics / Kaipulla Metrics](https://github-readme-stats.vercel.app/api/pin/?username=kactlabs&repo=prettymetrics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/kactlabs/prettymetrics/tree/main)
 
-  [![LogPlus](https://github-readme-stats.vercel.app/api/pin/?username=kactlabs&repo=logplus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/kactlabs/logplus/tree/main)
+<a href="https://github.com/kactlabs/prettymetrics">https://github.com/kactlabs/prettymetrics</a>
+    <br>
+<a href="https://github.com/kactlabs/logplus">https://github.com/kactlabs/logplus</a>
 
 </p>
