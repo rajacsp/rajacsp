@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/>
     <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/>
     <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/>
-    <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/>
 </p>
 
 <p align="center">
