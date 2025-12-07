@@ -38,7 +38,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/docker-white?&style=for-the-badge&logo=Docker&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/Kubernetes-white?&style=for-the-badge&logo=kubernetes&logoColor=blue"/>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
