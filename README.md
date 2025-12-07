@@ -39,8 +39,7 @@
 
 ## 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajacsp&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="rajacsp's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajacsp&langs_count=6&hide=matlab&count_private=true&theme=nightowl" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajacsp" alt="GitHub Streak" /></a>
 </p>
 
 
