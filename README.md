@@ -39,7 +39,9 @@
 
 ## 🚀 Quick Stats
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajacsp" alt="GitHub Streak" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajacsp&theme=tokyonight" alt="GitHub Streak" /></a>
+
 </p>
 
 
