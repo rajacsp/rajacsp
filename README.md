@@ -28,13 +28,22 @@
 
 ##  🤹 Skill Zone
 <p align="center">
-    <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/>
+    <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/>
+    <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/>
+    <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/>
+    <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/>
 </p>
 
-
-
 <p align="center">
-<img src="https://img.shields.io/badge/docker-white?&style=for-the-badge&logo=Docker&logoColor=blue"/> <img src="https://img.shields.io/badge/Kubernetes-white?&style=for-the-badge&logo=kubernetes&logoColor=blue"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Spark-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />  <img src="https://img.shields.io/badge/kubeflow-blue?style=for-the-badge&logo=Kubeflow&logoColor=blue" /> 
+    <img src="https://img.shields.io/badge/docker-white?&style=for-the-badge&logo=Docker&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/Kubernetes-white?&style=for-the-badge&logo=kubernetes&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDZWMTJDNCAxNi40MiA3LjU4IDIwIDEyIDIwQzE2LjQyIDIwIDIwIDE2LjQyIDIwIDEyVjZMMTIgMloiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMyIgZmlsbD0id2hpdGUiLz48Y2lyY2xlIGN4PSIxOCIgY3k9IjYiIHI9IjMiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMyIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" />
 </p>
 
 ## 🚀 Quick Stats
