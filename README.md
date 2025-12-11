@@ -51,6 +51,12 @@
 ## 🚀 Quick Stats
 <p align="center">
 
+
+<a href="https://github.com/rajacsp"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajacsp&theme=nord_dark"></a>
+
+<br>
+<a href = "https://github.com/rajacsp"><img src="hhttps://github-readme-activity-graph.vercel.app/graph?username=rajacsp&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajacsp&theme=tokyonight" alt="GitHub Streak" /></a>
 
 </p>
