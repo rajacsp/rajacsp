@@ -25,6 +25,7 @@
 ## 👨‍💻 I can code in...
 <p align="center">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">  
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:4px">
 </p>
 
 
