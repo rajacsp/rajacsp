@@ -67,8 +67,41 @@
 ## 🤗 Notable Contributions
 <p align="center">
 
-<a href="https://github.com/kactlabs/prettymetrics">https://github.com/kactlabs/prettymetrics</a>
-    <br>
+<a href="https://github.com/kactlabs/code-vectra">https://github.com/kactlabs/code-vectra</a>
+<br>
+<a href="https://github.com/kactlabs/tamil-tokenizer">https://github.com/kactlabs/tamil-tokenizer</a>
+<br>
+<a href="https://github.com/kactlabs/toksum">https://github.com/kactlabs/toksum</a>
+<br>
 <a href="https://github.com/kactlabs/logplus">https://github.com/kactlabs/logplus</a>
+<br>
+<a href="https://github.com/kactlabs/takobull">https://github.com/kactlabs/takobull</a>
 
 </p>
+
+------
+
+## 📦 PyPI Packages
+<p align="center">
+
+<a href="https://pypi.org/project/gpulegion/">https://pypi.org/project/gpulegion/</a>
+<br>
+<a href="https://pypi.org/project/mod2pip/">https://pypi.org/project/mod2pip/</a>
+<br>
+<a href="https://pypi.org/project/randum/">https://pypi.org/project/randum/</a>
+<br>
+<a href="https://pypi.org/project/tactrandom/">https://pypi.org/project/tactrandom/</a>
+<br>
+<a href="https://pypi.org/project/toksum/">https://pypi.org/project/toksum/</a>
+<br>
+<a href="https://pypi.org/project/pypinindia/">https://pypi.org/project/pypinindia/</a>
+<br>
+<a href="https://pypi.org/project/webtable2json/">https://pypi.org/project/webtable2json/</a>
+<br>
+<a href="https://pypi.org/project/agenticoptio/">https://pypi.org/project/agenticoptio/</a>
+<br>
+<a href="https://pypi.org/project/tamil-tokenizer/">https://pypi.org/project/tamil-tokenizer/</a>
+<br>
+<a href="https://pypi.org/project/logplus/">https://pypi.org/project/logplus/</a>
+<br>
+<a href="https://pypi.org/project/RanCE/">https://pypi.org/project/RanC
