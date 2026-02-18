@@ -25,7 +25,11 @@
 ## 👨‍💻 I can code in...
 <p align="center">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">  
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:4px">
+    <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" 
+         alt="rust" 
+         width="40" 
+         height="40"
+         style="vertical-align:top; margin:4px">
 </p>
 
 
