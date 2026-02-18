@@ -18,6 +18,8 @@
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@rajacsp)](https://medium.com/@rajacsp)
 
+[![Substack Badge](https://img.shields.io/badge/-Substack-black?style=flat-square&logo=substack&logoColor=white&link=https://articlevil.substack.com/)](https://articlevil.substack.com/)
+
 
 
 ## 👨‍💻 I can code in...
