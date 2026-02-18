@@ -105,3 +105,17 @@
 <a href="https://pypi.org/project/logplus/">https://pypi.org/project/logplus/</a>
 <br>
 <a href="https://pypi.org/project/RanCE/">https://pypi.org/project/RanC
+
+------
+
+## 📦 Crates (Rust Packages)
+<p align="center">
+
+<a href="https://crates.io/crates/takobull">https://crates.io/crates/takobull</a>
+<br>
+<a href="https://crates.io/crates/agentic_optio_rs">https://crates.io/crates/agentic_optio_rs</a>
+<br>
+<a href="https://crates.io/crates/pypinindia">https://crates.io/crates/pypinindia</a>
+
+</p>
+
