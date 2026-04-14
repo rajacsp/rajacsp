@@ -1,7 +1,8 @@
 
 
 <h1> 
-    Hi there!, I am <a href="https://github.com/rajacsp">Raja CSP Raman</a> and people call me CSP!
+    Hi there!, I am <a href="https://github.com/rajacsp">Raja CSP Raman</a> <br>
+    and people call me CSP!
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=rajacsp&&style=flat-square" align="left" />
