@@ -14,11 +14,29 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raja-csp-raman/)](https://linkedin.com/in/raja-csp-raman) 
 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/rajacsp/)](https://www.kaggle.com/rajacsp) 
+[![My GenAI Blog](https://img.shields.io/badge/My%20GenAI%20Blog-8A2BE2)](https://rajacsp.github.io/)
+
+[![Substack Badge](https://img.shields.io/badge/-Substack-black?style=flat-square&logo=substack&logoColor=white&link=https://articlevil.substack.com/)](https://articlevil.substack.com/)
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@rajacsp)](https://medium.com/@rajacsp)
 
-[![Substack Badge](https://img.shields.io/badge/-Substack-black?style=flat-square&logo=substack&logoColor=white&link=https://articlevil.substack.com/)](https://articlevil.substack.com/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/rajacsp/)](https://www.kaggle.com/rajacsp) 
+
+
+
+
+<table>
+  <tr>
+    <td colspan="2"><a href="https://rajacsp.github.io/"><img width=100% src="https://github-profile-trophy.vercel.app/?username=rajacsp&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://rajacsp.github.io/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rajacsp&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://rajacsp.github.io/"><img src="https://streak-stats.demolab.com?user=rajacsp&theme=nord&hide_border=true"></a></td>
+    <td><a href="https://rajacsp.github.io/"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajacsp&theme=nord_dark"></a></td>
+  </tr>
+</table>
 
 
 
